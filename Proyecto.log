@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  4 MAR 2020 23:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.4)  5 MAR 2020 09:58
 entering extended mode
 **./Proyecto.tex
 (Proyecto.tex
@@ -1029,74 +1029,73 @@ Package pdftex.def Info: CUARTA.png  used on input line 112.
 <QUINTA.png, id=23, 493.845pt x 199.49532pt>
 File: QUINTA.png Graphic file (type png)
 <use QUINTA.png>
-Package pdftex.def Info: QUINTA.png  used on input line 120.
+Package pdftex.def Info: QUINTA.png  used on input line 121.
 (pdftex.def)             Requested size: 345.68913pt x 139.64575pt.
 <SEXTA.png, id=24, 504.38437pt x 368.1253pt>
 File: SEXTA.png Graphic file (type png)
 <use SEXTA.png>
-Package pdftex.def Info: SEXTA.png  used on input line 128.
-(pdftex.def)             Requested size: 252.19156pt x 184.0622pt.
+Package pdftex.def Info: SEXTA.png  used on input line 130.
+(pdftex.def)             Requested size: 302.63295pt x 220.87688pt.
  [5 <./SEGUNDA.jpeg> <./TERCERA.png>] [6 <./CUARTA.png> <./QUINTA.png>]
 <SEPTIMA.png, id=31, 475.02469pt x 329.73187pt>
 File: SEPTIMA.png Graphic file (type png)
 <use SEPTIMA.png>
-Package pdftex.def Info: SEPTIMA.png  used on input line 136.
-(pdftex.def)             Requested size: 237.51175pt x 164.86552pt.
+Package pdftex.def Info: SEPTIMA.png  used on input line 139.
+(pdftex.def)             Requested size: 285.017pt x 197.84064pt.
 <OCTAVA.png, id=32, 487.06969pt x 322.20375pt>
 File: OCTAVA.png Graphic file (type png)
 <use OCTAVA.png>
-Package pdftex.def Info: OCTAVA.png  used on input line 144.
-(pdftex.def)             Requested size: 243.53424pt x 161.10147pt.
+Package pdftex.def Info: OCTAVA.png  used on input line 148.
+(pdftex.def)             Requested size: 340.94644pt x 225.54108pt.
 <NOVENA.png, id=33, 470.50781pt x 335.00156pt>
 File: NOVENA.png Graphic file (type png)
 <use NOVENA.png>
-Package pdftex.def Info: NOVENA.png  used on input line 152.
-(pdftex.def)             Requested size: 235.25333pt x 167.50037pt.
+Package pdftex.def Info: NOVENA.png  used on input line 157.
+(pdftex.def)             Requested size: 282.30685pt x 201.00247pt.
 <DECIMA.png, id=34, 462.97969pt x 292.84406pt>
 File: DECIMA.png Graphic file (type png)
 <use DECIMA.png>
-Package pdftex.def Info: DECIMA.png  used on input line 160.
-(pdftex.def)             Requested size: 231.48927pt x 146.42166pt.
-<UNDECIMA.png, id=35, 520.19344pt x 471.26062pt>
+Package pdftex.def Info: DECIMA.png  used on input line 166.
+(pdftex.def)             Requested size: 277.78995pt x 175.70778pt.
+ [7 <./SEXTA.png> <./SEPTIMA.png>] [8 <./OCTAVA.png> <./NOVENA.png>]
+<UNDECIMA.png, id=42, 520.19344pt x 471.26062pt>
 File: UNDECIMA.png Graphic file (type png)
 <use UNDECIMA.png>
-Package pdftex.def Info: UNDECIMA.png  used on input line 168.
-(pdftex.def)             Requested size: 260.09607pt x 235.62973pt.
-<DUODECIMA.png, id=36, 321.45094pt x 453.19313pt>
+Package pdftex.def Info: UNDECIMA.png  used on input line 174.
+(pdftex.def)             Requested size: 312.11845pt x 282.75856pt.
+<DUODECIMA.png, id=43, 321.45094pt x 453.19313pt>
 File: DUODECIMA.png Graphic file (type png)
 <use DUODECIMA.png>
-Package pdftex.def Info: DUODECIMA.png  used on input line 176.
+Package pdftex.def Info: DUODECIMA.png  used on input line 183.
 (pdftex.def)             Requested size: 160.72507pt x 226.59601pt.
- [7 <./SEXTA.png> <./SEPTIMA.png>] [8 <./OCTAVA.png> <./NOVENA.png> <./DECIMA.p
-ng>]
-<DECIMOTERCERA.png, id=44, 330.48468pt x 505.89pt>
+ [9 <./DECIMA.png> <./UNDECIMA.png>]
+<DECIMOTERCERA.png, id=47, 330.48468pt x 505.89pt>
 File: DECIMOTERCERA.png Graphic file (type png)
 <use DECIMOTERCERA.png>
-Package pdftex.def Info: DECIMOTERCERA.png  used on input line 184.
+Package pdftex.def Info: DECIMOTERCERA.png  used on input line 192.
 (pdftex.def)             Requested size: 165.24193pt x 252.94437pt.
- [9 <./UNDECIMA.png> <./DUODECIMA.png>]
 <DECIMOCUARTA.png, id=48, 426.84468pt x 237.13594pt>
 File: DECIMOCUARTA.png Graphic file (type png)
 <use DECIMOCUARTA.png>
-Package pdftex.def Info: DECIMOCUARTA.png  used on input line 192.
+Package pdftex.def Info: DECIMOCUARTA.png  used on input line 201.
 (pdftex.def)             Requested size: 213.42181pt x 118.56767pt.
 <DECIMOQUINTA.png, id=49, 395.97937pt x 369.63094pt>
 File: DECIMOQUINTA.png Graphic file (type png)
 <use DECIMOQUINTA.png>
-Package pdftex.def Info: DECIMOQUINTA.png  used on input line 199.
+Package pdftex.def Info: DECIMOQUINTA.png  used on input line 208.
 (pdftex.def)             Requested size: 197.9892pt x 184.815pt.
 <DECIMOSEXTA.png, id=50, 399.74344pt x 234.8775pt>
 File: DECIMOSEXTA.png Graphic file (type png)
 <use DECIMOSEXTA.png>
-Package pdftex.def Info: DECIMOSEXTA.png  used on input line 206.
+Package pdftex.def Info: DECIMOSEXTA.png  used on input line 215.
 (pdftex.def)             Requested size: 199.87122pt x 117.43846pt.
 <DECIMOSEPTIMA.png, id=51, 410.2828pt x 269.50688pt>
 File: DECIMOSEPTIMA.png Graphic file (type png)
 <use DECIMOSEPTIMA.png>
-Package pdftex.def Info: DECIMOSEPTIMA.png  used on input line 213.
+Package pdftex.def Info: DECIMOSEPTIMA.png  used on input line 222.
 (pdftex.def)             Requested size: 205.1409pt x 134.7531pt.
- [10 <./DECIMOTERCERA.png> <./DECIMOCUARTA.png>] [11 <./DECIMOQUINTA.png> <./DE
-CIMOSEXTA.png> <./DECIMOSEPTIMA.png>] (Proyecto.aux
+ [10 <./DUODECIMA.png> <./DECIMOTERCERA.png>] [11 <./DECIMOCUARTA.png> <./DECIM
+OQUINTA.png> <./DECIMOSEXTA.png> <./DECIMOSEPTIMA.png>] (Proyecto.aux
 LaTeX Info: Redefining \. on input line 7.
 LaTeX Info: Redefining \% on input line 7.
 ) ) 
@@ -1112,7 +1111,7 @@ Here is how much of TeX's memory you used:
 c}<C:/Users/xclie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/utopia/pu
 tb8a.pfb><C:/Users/xclie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/adobe/ut
 opia/putr8a.pfb>
-Output written on Proyecto.pdf (11 pages, 1444461 bytes).
+Output written on Proyecto.pdf (11 pages, 1444478 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
